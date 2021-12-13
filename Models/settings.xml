@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <BaseUrl>https://hugery.myjetbrains.com</BaseUrl>
+  <Email>wrongEmail</Email>
+  <Password>wrongPassword</Password>
+  <IssuesXml>C:\Users\yasch\RiderProjects\TestProject\Models\issues.xml</IssuesXml>
+  <LastCreatedIssue>HUGERY-64</LastCreatedIssue>
+  <EdgeDriverDirectory>C:\\Users\\yasch\\.nuget\\packages\\selenium.webdriver.msedgedriver\\86.0.622.38\\driver\\win64</EdgeDriverDirectory>
+</Settings>
